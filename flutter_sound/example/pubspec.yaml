@@ -38,7 +38,7 @@ dependencies:
   permission_handler: ^6.0.1
   path: ^1.6.4
   #flutter_ffmpeg: ^0.3.1
-  intl: ^0.17.0
+  intl: ^0.18.0
   just_audio: ^0.9.11
   audio_session: ^0.1.6
 
